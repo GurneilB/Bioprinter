@@ -13,7 +13,7 @@ The BioPrinter's Workflow is divided into 4 sections:
 
 Below goes more in-depth into the 4 sections and the software behind them:
 
-1. Design
-2. Slice
-3. Process
-4. Print 
+# 1. Design
+# 2. Slice
+# 3. Process
+# 4. Print 
