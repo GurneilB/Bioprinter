@@ -14,6 +14,21 @@ The BioPrinter's Workflow is divided into 4 sections:
 Below goes more in-depth into the 4 sections and the software behind them:
 
 # 1. Design
+
+Any Computer-Aided Design (CAD) software will suffice. 
+
+The goal is to save the file as a '.obj' or '.stl' file 
+
 # 2. Slice
+
+The slicing software used is RepetierHost.
+
+  - First download the software from this site
+  - Modify the Printer Config to the dimensions of your printer
+  - Upload the Configuration file on this Github to slice correctly
+  - Upload the '.obj' or '.stl' file
+  - Slice the '.obj' or '.stl' file
+  - Download slice file and save into the same folder as the post-processor file
+
 # 3. Process
 # 4. Print 
