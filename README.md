@@ -1,6 +1,13 @@
 # Bioprinter
 The workflow and software breakdown for the use of Dr. Mohsen Akbari's Bioprinter.
 
-Welcome to the BioPrinter's Github Page!
+Welcome to the BioPrinter's GitHub Page!
 
-Attached is all of the software needed to complete your workflow for the using the Bioprinter 
+Attached is all of the software needed to complete your workflow for using the Bioprinter. 
+
+The BioPrinter's Workflow is divided into 4 sections:
+  1. Design  
+  2. Slice
+  3. Process
+  4. Print 
+  
