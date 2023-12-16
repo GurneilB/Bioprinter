@@ -31,4 +31,8 @@ The slicing software used is RepetierHost.
   - Download slice file and save into the same folder as the post-processor file
 
 # 3. Process
+The Post-Processing Software is required to calculate the correct extrusion rates of the bioinks as all slicers are optimized for plastic filaments.
+
+  - Download the file
+  - Run it ad makesure that your sliced .gcode file is saved in the same folder as this executable. 
 # 4. Print 
